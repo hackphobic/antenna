@@ -1,0 +1,13 @@
+[package]
+name = "antenna"
+version = "0.0.1"
+edition = "2021"
+authors = ["Ziyad <ziyadalagla@gmail.com>"]
+license = "Apache-2.0"
+description = "Light client for Solana"
+repository = "https://github.com/hackphobic/antenna"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
